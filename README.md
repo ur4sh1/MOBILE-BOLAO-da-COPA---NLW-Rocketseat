@@ -53,3 +53,19 @@ Instalando a fonte 'Roboto' do google pelo expo
 ```
 npx expo install expo-font @expo-google-fonts/roboto
 ```
+Instalando o react-native-svg-transformer
+```
+npm i react-native-svg-transformer
+```
+Instalando o AuthSession via expo
+```
+npx expo install expo-auth-session expo-random
+```
+Instalando o expo-web-browser
+```
+npx expo install expo-web-browser
+```
+Instalando uma biblioteca de icones do phosphor
+```
+npm i phosphor-react-native
+```
